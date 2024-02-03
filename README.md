@@ -10,6 +10,7 @@ I am Juliet Idika, an accomplished and results-oriented data analyst skilled in 
 📊 I possess a strong collaborative spirit, acute attention to detail, and an innovative mindset that fuels my passion for driving measurable outcomes. 
 
 🤝 Equipped with expertise in Excel, SQL, Tableau, and Power BI, I have successfully led teams to deliver insightful data projects that catalyzed organizational growth and performance optimization.
+
 🚀 As a team lead, I understand that collaboration is integral for unlocking peak productivity and job fulfillment.
 
 👩‍🏫 Continuous learning animates my work ethic - I enthusiastically welcome new challenges that allow me to expand my skillset and keep pace with rapid technological advancements in the data space. 
